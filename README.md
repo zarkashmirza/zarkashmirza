@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='./assets/yellow-code-nodes.gif' alt='header-img' width='600'>
+  <img src='./assets/code-nodes.gif' alt='header-img' width='600'>
 
 ## Hi there, I'm Zee 👋
 
@@ -55,8 +55,8 @@ When I'm not writing code or building applications, you can usually find me:
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZarkashMirza&theme=tokyonight" alt="Zee's GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=ZarkashMirza&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="./profile-summary-cards/tokyonight/profile-details.svg" alt="Zee's GitHub Stats" width="48%" />
+  <img src="./profile-summary-cards/tokyonight/top-langs.svg" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
