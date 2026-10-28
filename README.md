@@ -55,12 +55,7 @@ When I'm not writing code or building applications, you can usually find me:
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Zee's GitHub Stats" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZarkashMirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarkashmirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
