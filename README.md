@@ -55,8 +55,8 @@ When I'm not writing code or building applications, you can usually find me:
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZarkashMirza&show_icons=true&theme=tokyonight&hide_border=true" alt="Zee's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarkashMirza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZarkashMirza&theme=tokyonight" alt="Zee's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=ZarkashMirza&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
