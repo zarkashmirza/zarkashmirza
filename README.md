@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='./assets/code-nodes.gif' alt='header-img' width='600'>
+  <img src='./assets/yellow-code-nodes.gif' alt='header-img' width='600'>
 
 ## Hi there, I'm Zee 👋
 
