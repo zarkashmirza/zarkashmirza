@@ -1,5 +1,6 @@
+<center>
 ## Hi there, I'm Zee 👋
-
+</center>
 ---
 
 <p align='center'>
