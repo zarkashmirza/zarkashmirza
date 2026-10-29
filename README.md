@@ -1,7 +1,6 @@
-<center>
+<div align='center'>
 ## Hi there, I'm Zee 👋
-</center>
----
+</div>
 
 <p align='center'>
   <img src='./assets/typewriter-animation.gif' alt='header-img' width='600'>
