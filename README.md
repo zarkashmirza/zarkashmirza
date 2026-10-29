@@ -1,11 +1,9 @@
-<p align='center'>
-  <img src='./assets/typewriter-animation.gif' alt='header-img' width='600'>
-
 ## Hi there, I'm Zee 👋
 
-<!--
-**zarkashmirza/zarkashmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+<p align='center'>
+  <img src='./assets/typewriter-animation.gif' alt='header-img' width='600'>
 
 > **Mobile & Web Development Student @ triOS College**  
 > *Building clean, user-centric web and mobile applications powered by modern frontend architectures, structured UI/UX design, and practical AI integrations.*
@@ -20,6 +18,15 @@ I am a software development student specializing in full-stack web systems, cros
 - 🛠️ **Current Focus:** Full-stack web architectures, UI/UX prototyping, local-first LLM applications (MCP protocol), and relational database design.
 - 💻 **Hands-On Experience:** Building responsive web apps, RESTful API integrations, and modular desktop/mobile layouts.
 - 🎨 **Design & Workflow:** Applying atomic design principles, structured wireframing, and git-based team workflows.
+
+---
+
+## 🛠️ Beyond the Code
+
+When I'm not writing code or building applications, you can usually find me:
+* ✍️ **Crafting Fiction:** Be they tall tales or fabled legends, I spend my free time writing short stories and working on long-form narratives.
+* 📚 **Reading:** My to-read pile keeps growing and my spare time keeps shrinking, but whenever I get the chance, I love diving into a good book--literary fiction, non-fiction, genre novels, you name it!
+* 🎮 **Gaming:** I used to be a PlayStation fanboy until they broke my heart. My Xbox put the pieces back together. Ever since, I've been exploring story-driven single-player titles, running COD with the boys, and amassing a *to-play* library of games that might just rival my *to-read* backlog 😅.
 
 ---
 
@@ -40,15 +47,6 @@ I am a software development student specializing in full-stack web systems, cros
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🛠️ Beyond the Code
-
-When I'm not writing code or building applications, you can usually find me:
-* ✍️ **Crafting Fiction:** Writing short stories and working on long-form narrative worldbuilding.
-* 📚 **Reading:** Diving into literary fiction, non-fiction, and genre novels.
-* 🎮 **Gaming:** Exploring story-driven single-player titles, or running a few matches with the boys.
 
 ---
 
